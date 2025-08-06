@@ -1,3 +1,4 @@
-**⚠️ 请勿修改此文件夹中的任何内容。未经授权的更改可能会导致软件包们损坏。只有仓库管理员有权限进行修改。**
+# 对于分叉的用户/For users who forked：
 
-**⚠️ Do not modify anything in this folder. Unauthorized changes may corrupt the packages. Only repository administrators have permission to modify it.**
+**📦 建议仅在向文件夹中添加文件（例如您的软件包）时再进行修改。**
+**📦 It is recommended to modify folders only when adding files to the folder (i.e., your package).**
